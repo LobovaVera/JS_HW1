@@ -6,8 +6,11 @@
 из переменной name.
 Вывести значение переменной admin в консоль.
 */
+
 !(function () {
   const name = "Vera";
   const admin = name.toString();
   console.log(admin);
 })();
+
+//не очень понятно как работает js1
