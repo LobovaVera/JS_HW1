@@ -12,3 +12,5 @@
   const admin = name.toString();
   console.log(admin);
 })();
+
+//не очень понятно как работает js1
